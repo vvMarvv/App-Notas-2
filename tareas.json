@@ -1,0 +1,18 @@
+[
+    {
+        "título": "Terminar la app de notas",
+        "estado": "terminado"
+    },
+    {
+        "título": "Ordenar cuarto",
+        "estado": "terminado"
+    },
+    {
+        "título": "Leer apuntes de la facultad",
+        "estado": "pendiente"
+    },
+    {
+        "título": "Hacer ejercicio del Playground",
+        "estado": "En progreso"
+    }
+]
